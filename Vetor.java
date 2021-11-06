@@ -39,7 +39,7 @@ public class Vetor {
 		}
 		System.out.println("O MENOR faturamento no dia foi: R$ " + menorFaturamento);
 		System.out.println("O MAIOR faturamento no dia foi: R$ " + maiorFaturamento);
-        System.out.println(diasFaturamentoMaiorMediaMensal + " dias foram superiores ao FATURAMENTO MÉDIO MENSAL!");
+      	        System.out.println(diasFaturamentoMaiorMediaMensal + " dias foram superiores ao FATURAMENTO MÉDIO MENSAL!");
 
 	}
 }
