@@ -12,7 +12,8 @@ public class soma {
 		}
 		;
 
-		System.out.println(soma);
+		System.out.println(soma); //Ao final do processamento, qual será o valor da variável SOMA? 91
+
 	}
 
 }
